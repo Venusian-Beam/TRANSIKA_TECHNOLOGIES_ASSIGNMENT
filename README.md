@@ -139,6 +139,10 @@ pytest -v
 - **Fee Floor:** The USD 0.50 minimum fee prevents micro-transaction abuse.
 - **Server-Side Expiry:** Quote TTL is enforced server-side; clients cannot extend it.
 
+## AI Assistance
+
+This project was built with the assistance of an AI coding agent (Antigravity by Google DeepMind) for architectural planning, code generation, and test creation.
+
 ## License
 
 Proprietary — Transika Technologies.
